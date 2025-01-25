@@ -1,5 +1,3 @@
-Here is a detailed README file for your SiteForge project:
-
 # SiteForge: The Developer's Visual Website and Backend Ecosystem
 
 ## Project Overview
